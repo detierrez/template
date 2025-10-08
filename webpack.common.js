@@ -30,4 +30,10 @@ module.exports = {
       },
     ],
   },
+  resolve: {
+    alias: {
+      "@icons": path.resolve(__dirname, "src/assets/icons"),
+      "@fonts": path.resolve(__dirname, "src/assets/fonts"),
+    },
+  },
 };

@@ -1,4 +1,5 @@
-import "modern-normalize"
-import "./css/reset.css"
+import "modern-normalize";
+import "./css/reset.css";
+import "./css/base.css";
 
-console.log("Hello World")
+console.log("Hello World");
